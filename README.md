@@ -1,5 +1,5 @@
 
-# Lab: ANOVA
+# Lab: Chi-Squared
 ---
 Welcome to the Chi-squared lab!
 
